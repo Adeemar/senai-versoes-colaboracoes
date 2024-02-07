@@ -2,4 +2,7 @@
 
 readme de exemplo
 
+
 lembrei do git commit
+lembrei do comando: gi status
+
